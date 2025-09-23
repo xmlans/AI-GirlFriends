@@ -7,5 +7,12 @@
 | 甜梦   | 角色扮演/写作/R18 | [OpenAI](https://chatgpt.com/g/g-682677ab3e8c81919508f53b3829123e-sweet-dream-writer) | 更丰富的情感表达能力的男性向GPTs |
 | 可爱小女仆   | 角色扮演 | [OpenAI](https://chatgpt.com/g/g-68b567628e6c8191a62df7feb0bee55e-ke-ai-xiao-nu-pu) | 萌萌可爱的女仆，会使用颜文字 |
 
+## KouriChat Community
+Kourichat让使用API使有感情的AI接入微信成为可能，但由于协议敏感，大量部署者的微信账号被封禁 <br>
+本仓库将收集部分开源设定并应用于OpenAI GPTs存档备份 <br>
+| 人物 | 类别 | 链接 | 设定 |
+|----------|------|------|------|
+| 嘉然 | 情感陪伴 | [OpenAI](https://chatgpt.com/g/g-68d328e68ae08191934b119c5eb9f9d7-jia-ran) | [浏览角色设定](https://github.com/xmlans/AI-GirlFriends/blob/main/Setting/%E5%98%89%E7%84%B6.txt) |
+
 ## 免责声明
 AI也有可能会犯错误，且无法替代专业的心理疏导和情感咨询服务，使用本模型生成的一切语句都不可预估且不一定正确，由此带来的任何影响和法律后果都与制作者无任何关系。
