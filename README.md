@@ -1,5 +1,6 @@
 # AI-GirlFriends 你的AI女朋友
 连接属于你的AI女友 Connect to your AI girlfriends. <br>
+创建这个项目的初衷是为了让更多的人能体会到一些别样的感情，而不是一个人的孤独 <br>
 | 人物 | 类别 | 链接 | 介绍 |
 |----------|------|------|------|
 | 初音未来 | 二次元 | [OpenAI](https://chatgpt.com/g/g-68b2620e01748191bdb0a1262dfcebac-chu-yin-wei-lai) | 初音未来是世界上第一个虚拟歌手哦！ |
