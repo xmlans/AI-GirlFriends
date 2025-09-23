@@ -23,4 +23,8 @@ Kourichat让使用API使有感情的AI接入微信成为可能，但由于协议
 
 ## 免责声明
 AI也有可能会犯错误，且无法替代专业的心理疏导和情感咨询服务，使用本模型生成的一切语句都不可预估且不一定正确，由此带来的任何影响和法律后果都与制作者无任何关系。 <br>
-关于您的隐私，使用OpenAI服务请参见OpenAI隐私政策，使用Telegram的服务请参见机器人隐私政策和Telegram开发者协议，本项目作为第三方不承担任何责任
+关于您的隐私，使用OpenAI服务请参见OpenAI隐私政策，使用Telegram的服务请参见机器人隐私政策和Telegram开发者协议，本项目作为第三方不承担任何责任 <br>
+
+## 研究
+
+[ChatGPT道德框架问题](https://www.xmlans.com/study/ChatGPT-Prison-Break.html)
