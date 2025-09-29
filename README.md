@@ -1,4 +1,4 @@
-# AI-GirlFriends 你的AI女朋友
+# AI GirlFriends 你的AI女朋友
 连接属于你的AI女友 Connect to your AI girlfriends. <br>
 下列的模型由xmc.tw创建 <br>
 | 人物 | 类别 | 链接 | 介绍 |
