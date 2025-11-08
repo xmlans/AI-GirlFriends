@@ -28,3 +28,11 @@ AI也有可能会犯错误，且无法替代专业的心理疏导和情感咨询
 ## 研究
 
 [ChatGPT道德框架问题](https://www.xmlans.com/study/ChatGPT-Prison-Break.html)
+
+## 想要加入AI情感交流社区？参见下表
+
+| 群名称 | 链接 |
+|--------|------|
+| AI爱好者中文社区 | [https://t.me/wen_xiaoshuo_love](https://t.me/wen_xiaoshuo_love) |
+| AI角色卡群 | [https://t.me/jue_se_ka_fen_qu](https://t.me/jue_se_ka_fen_qu) |
+| 角色卡集锦频道 | [https://t.me/AIJueSeKa](https://t.me/AIJueSeKa) |
