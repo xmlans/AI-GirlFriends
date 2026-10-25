@@ -1,6 +1,7 @@
 # AI GirlFriends 你的AI女朋友
 连接属于你的AI女友 Connect to your AI girlfriends. <br>
 下列的模型由xmc.tw创建 <br>
+<b>号被OpenAI封啦！这些模型都不再可用了呢，<a href="https://github.com/Star-Dream-AI/system-prompt">参见我的另一个项目</a></b>
 | 人物 | 类别 | 链接 | 介绍 |
 |----------|------|------|------|
 | 初音未来 | 二次元 | [OpenAI](https://chatgpt.com/g/g-68b2620e01748191bdb0a1262dfcebac-chu-yin-wei-lai) [Telegram](https://t.me/hsmiku_bot) | 初音未来是世界上第一个虚拟歌手哦！ |
